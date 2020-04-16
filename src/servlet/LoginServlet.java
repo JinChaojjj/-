@@ -26,6 +26,7 @@ public class LoginServlet extends HttpServlet {
         }else {
             if ("/login".equals(path)) {
                 managerLogin(request, response);
+                System.out.println("hello");
             }
         }
     }

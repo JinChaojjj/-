@@ -1,0 +1,21 @@
+
+>
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+1
+java:S36268"Remove this redundant jump.(ûÁİ…
+1
+java:S3626@"Remove this redundant jump.(ûÁİ…
+’
+java:S1130!"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(È©ıåúÿÿÿÿ
+S
+java:S24416"=Make "Manager" serializable or don't store it in the session.(ˆ“Ç±
+1
+java:S3626d"Remove this redundant jump.(ûÁİ…
+1
+java:S3626j"Remove this redundant jump.(ûÁİ…
+
+java:S1130I"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(öÏ¯‡
+P
+java:S2441b":Make "User" serializable or don't store it in the session.(úÆè“
